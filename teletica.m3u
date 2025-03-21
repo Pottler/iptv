@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTVLCOPT:http-referrer=https://bradmax.com
+#EXTINF:-1, Teletica en Vivo
+https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStreamCR/d072c3a8dde8622c607ecd258fd628e8.sdp/playlist.m3u8
